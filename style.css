@@ -1,4 +1,10 @@
 
+.form{
+    max-width: 30rem;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 1px solid #ccc;
+}
 .form-radio{
     margin-bottom: 30px;
     
